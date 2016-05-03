@@ -1,4 +1,112 @@
-1 body { 
-	font-family: Arial; sans-serif; 
-	background-color:#D3D3D3
+
+
+
+body {
+
+	font-family: Arial; Verdana; san-serif;
+	background-color:#778899;
+	max-width: 800px
+	margin: 20px 30px 20px 30px;
+ 	border: 20px;
+ 	padding: 80px 30px;
+ 	position: relative;
  }
+
+ p {
+
+	 text-decoration-color: #778899
+ }
+
+ header{
+ 	max-width: 0 auto;
+ 	margin: 0px;
+ 	border: 20px;
+ 	background-color: #29a329;
+ 	background-image: url(wustl.jpg);
+ 	padding: 32px;
+
+ }
+ header h1 {
+ 	text-transform: uppercase;
+ 	text-align: center;
+ 	text-decoration-color: #0d0d0d;
+ 	line-height: 50px;
+ }
+
+header h2 {
+	text-transform: uppercase;
+	text-align: center;
+	text-decoration-color: #1a1a1a;
+}
+
+.main_menu {
+	padding: px 0px 50px 0px;
+	text-align: center;
+	line-height: 32px;
+	background-image: url(arch);
+
+}
+
+.nav {
+	margin: 15px;
+
+}
+.main_menu li {
+	display: inline;
+	padding: 0 10px 0 10px;
+	font-size: 20px;
+	font-variant: small-caps;
+}
+
+}
+
+.Part {
+	background-image: url(part.jpg);
+	padding: 60px 3px 3px 60px;
+	margin: 25px;
+	text-align: justify;
+	text-decoration-color: #000000;
+
+}
+
+.Eng {
+	background-image: url(eng.jpg);
+	padding: 60px 3px 3px 60px;
+	margin: 25px;
+	text-align: justify;
+	text-decoration-color: #fff;
+
+}
+
+. {
+	opacity: .1;
+
+ }
+
+.Olin {
+	background-image: url(olin.jpg);
+	padding: 60px 3px 3px 60px;
+	margin: 25px;
+
+}
+
+.Fox{
+	background-image: url(Fox.jpg);
+	padding: 60px 3px 3px 60px;
+	margin: 25px;
+
+}
+footer {
+	font-size: 8px
+	text-align: left;
+
+}
+
+</style>
+
+
+</head>
+<header > <h1> <strong> Washington University in St. Louis. </strong> <h1>
+<h2> Global Opportunities </h2>
+
+</header>
